@@ -13,8 +13,9 @@ Steps followed:
 7.	Print second Bus name and price
 8.	Close the opened browser
 
-Technologies Used:
-Selenium - Page Object Model
-TestNG - Organizing test cases/ suites, taking snapshot
-Maven (for handling dependencies)
-Executes test cases on 2 browsers -- Firefox followed by Chrome
+Highlights
+1. Technologies Used:
+2. Selenium - Page Object Model
+3. TestNG - Organizing test cases/ suites, taking snapshot
+4. Maven (for handling dependencies)
+5. Executes test cases on 2 browsers -- Firefox followed by Chrome
